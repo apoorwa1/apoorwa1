@@ -2,8 +2,8 @@
 
 I am currently a student at the School of Code. In the bootcamp we have covered JavaScript, ReactJS, Nodejs working in teams following agile methodology.
 
-- 🔭 I’m currently working on a recipe app using Next.js, Postgres, NextUI, Auth0 and Cypress
-- 🌱 I’m currently learning ... Next.js
+- 🔭 I’m currently working on our final project of bootcamp, a family recipe app using Next.js, Postgres, NextUI, Auth0 and Cypress.
+- 🌱 I’m currently learning ... Next.js.
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 ### Connect with me:
