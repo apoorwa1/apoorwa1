@@ -1,5 +1,6 @@
 ### Hi there 👋 my name is Apoorwa and I am a software developer.
-I have degree in Electronics & Communication engineering 
+I have degree in Electronics & Communication engineering.
+
 I am currently a student at the School of Code. In the bootcamp we have covered JavaScript, ReactJS, Nodejs working in teams following agile methodology.
 
 - 🔭 I’m currently working on a recipe app using Next.js, Postgres
