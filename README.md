@@ -2,7 +2,7 @@
 
 I am a recent bootcamper from the School of Code and AWS certified Cloud Practitioner. In the bootcamp we have covered JavaScript, ReactJS, Nodejs working in teams following agile methodology.
 
-- 🔭 I’m currently working on our final project of bootcamp, a family recipe app using Next.js, Postgres, NextUI, Auth0 and Cypress.
+- 🔭 I recently passed my AWS Cloud Practitioner Exam 
 - 🌱 I’m currently learning ... Next.js.
 
 
