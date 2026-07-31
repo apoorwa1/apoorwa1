@@ -1,13 +1,8 @@
 ### Hi there 👋 my name is Apoorwa
 
-I am a recent bootcamper from the School of Code and AWS certified Cloud Practitioner. In the bootcamp we have covered JavaScript, ReactJS, Nodejs working in teams following agile methodology.
+I am a proud former bootcamper from the School of Code and AWS certified Developer Associate. 
+I am a software engineer who is strengthening modern React and Next.js while bringing production experience across frontend and cloud infrastructure.
 
-- 🔭 I recently passed my AWS Cloud Practitioner Exam 
-- 🌱 I’m currently learning ... Next.js.
-
-
- [My portfolio](https://apoorwasaxena.netlify.app/)
- 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 ### Connect with me:
 
